@@ -1,19 +1,19 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Randy Hall                      # name
+  title: Desktop Support Specialist           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: Vassar, Michigan # location
+  email: randyhall5@protonmail.com    # email address
+  phone: (989)280-0934 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
+  gender: Male                 # gender or pronoun
+  birthday: 05/22/1989               # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
@@ -106,16 +106,18 @@ experience:
         + First
         + Second
 
-    - company: First Company
+    - company: Charter Communications
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: Fulltime
+      date: 12/2016 - 8/2022
+      role: Field Technician 2
+      location: Davison, Michigan
       description: |
         Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        + Troubleshoot and fix various issues with customers cable lines and equipment.
+        + Report signal issues to appropriate teams to be fixed.
+        + Maintain good customer satisfaction.
+        + Install cable lines and equipment into customers home.
 
 project:
   show: true
